@@ -1,4 +1,4 @@
-# flutter_application_1
+Atividade desenvolvida para a diciplina de denvolvimento de web.
 
 A new Flutter project.
 
